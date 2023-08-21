@@ -40,7 +40,7 @@
     <li>Duplicate rows</li>
     <li>Renamed Column</li>
 </ol>
-<p>The cleaned dataset was also done Excel for transformation.</p>
+<p>The cleaned dataset was also done in Excel for transformation.</p>
 <ol>
     <li>Conditional Column for Tax 5%, Total, Gross Income and Rating</li>
     <li>Sort column 'Commute Distance' by Changing 10+ Miles to More Than 10 Miles</li>
