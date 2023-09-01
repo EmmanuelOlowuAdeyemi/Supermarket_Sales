@@ -42,8 +42,9 @@
 </ol>
 <p>The cleaned dataset was also done in Excel for transformation.</p>
 <ol>
-    <li>Conditional Column for Tax 5%, Total, Gross Income and Rating</li>
-    <li>Sort column 'Commute Distance' by Changing 10+ Miles to More Than 10 Miles</li>
+    <li>Conditional Column for Tax 5% and Gross Income </li>
+    <li>Conditional Column for Total Price Level</li>
+    <li>Conditional Column for Rate Levelling</li>
     <li>Breakdown of Date stamp into Months (January, February, March)</li>
 </ol>
 
@@ -56,3 +57,10 @@ While this balance is positive, there's potential to attract more members to cer
 </html>
 <img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALE%20DASHBOARD.png" alt="Supermarket Sales Dashboard">
 <img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALE%20DASHBOARD%202.png" alt="Supermarket Sales Dashboard 2">
+
+<h2>Recommendation:</h2>
+<p>To enhance sales and customer engagement, a comprehensive strategy can be devised. Firstly, by tailoring marketing campaigns to the predominant gender in each location and crafting specialized promotions that align with the unique preferences of customers in different areas, you can effectively resonate with local audiences and drive sales. Additionally, analyzing the factors behind lower counts in specific product lines and making strategic improvements can help bolster the overall product offering, catering to a broader customer base.
+Launching member-exclusive offers or rewards aimed at encouraging exploration and purchases from less popular product categories can stimulate interest and diversify sales. Ensuring equitable tax rates and promoting transparent communication about these rates will not only build trust among customers but also contribute to fair taxation practices. 
+Planning and executing targeted promotions, events, or campaigns during months with historically lower gross income counts and leveraging customer spending patterns to design compelling offers aligned with their preferences can optimize sales throughout the year, effectively increasing revenue and customer satisfaction.</p>
+
+
