@@ -54,6 +54,5 @@ While this balance is positive, there's potential to attract more members to cer
 </body>
 
 </html>
-<img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALES%20DASHBOARD%20.png" alt="Supermarket Sales Dashboard">
-<img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALES%20DASHBOARD%202.png" alt="Supermarket Sales Dashboard 2">
-<img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALES%20DASHBOARD%203.png" alt="Supermarket Sales Dashboard 3">
+<img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALE%20DASHBOARD.png" alt="Supermarket Sales Dashboard">
+<img src="https://github.com/EmmanuelOlowuAdeyemi/Supermarket_Sales/blob/main/Supermarket_Sales/SUPERMARKET%20SALE%20DASHBOARD%202.png" alt="Supermarket Sales Dashboard 2">
